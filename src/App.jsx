@@ -113,12 +113,12 @@ function App() {
                 <div className="demo-box">
                   <strong>🌐 Demo Web Sitesi:</strong>
                   <a 
-                    href="https://egecrew.github.io/website-car-parking-pay-after-use/" 
+                    href="https://car-parking-pay-after-use.egecrew.com/" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="demo-link"
                   >
-                    egecrew.github.io/website-car-parking-pay-after-use
+                    car-parking-pay-after-use.egecrew.com
                   </a>
                 </div>
               </div>
